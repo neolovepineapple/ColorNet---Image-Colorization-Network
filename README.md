@@ -5,8 +5,8 @@ Using Keras and Pytorch to built image colorization network.
 [**Deep Koalarization: Image Colorization using CNNs and Inception-ResNet-v2** (2017)](https://arxiv.org/abs/1712.03400).
 
 ## Keras Version
-(1) `cd` to your local directory
-(2) ```python colorNetMain.py -h```
+(1) `cd` to your local directory <br> 
+(2) ```python colorNetMain.py -h``` <br> 
 (3) 
 ```
 Keras ColorNet
@@ -26,7 +26,7 @@ drop
 --resume PATH         path to latest checkpoint (default: none)
 ```
 
-####To Do List
+#### To Do List
 (1) Complete the prediction part
 
 
